@@ -44,7 +44,7 @@ header{
     border-bottom: 10px solid #5a99a7;
 }
 body {
-    background-image:url("/img/flat-lay11.jpg");
+    background-image:url("/myportfolio.com/img/flat-lay11.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -61,7 +61,7 @@ body {
    }
    #about-container1
    {
-    background-image: url(/img/banner.jpg);
+    background-image: url(/myportfolio.com/img/banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
