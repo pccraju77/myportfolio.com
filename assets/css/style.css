@@ -431,7 +431,7 @@ contact .info-box i.bx {
       width: 0;
     }
     to {
-      width: 22rem;
+       width: 25rem;
     }
   }
 }
