@@ -394,3 +394,55 @@ contact .info-box i.bx {
   padding: 15px;
   font-weight: 600;
 }
+@keyframes animated-text__1 {
+  from {
+    width: 0;
+  }
+  to {
+    width: 25rem;
+  }
+}
+
+@media (max-width: 1200px) {
+  @keyframes animated-text__1 {
+    from {
+      width: 0;
+    }
+    to {
+      width: 25rem;
+    }
+  }
+}
+
+@media (max-width: 992px) {
+  @keyframes animated-text__1 {
+    from {
+      width: 0;
+    }
+    to {
+      width: 25rem;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  @keyframes animated-text__1 {
+    from {
+      width: 0;
+    }
+    to {
+      width: 22rem;
+    }
+  }
+}
+
+@media (max-width: 576px) {
+  @keyframes animated-text__1 {
+    from {
+      width: 0;
+    }
+    to {
+      width: 20rem;
+    }
+  }
+}
