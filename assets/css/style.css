@@ -1,4 +1,4 @@
- .navbar-brand
+.navbar-brand
 {
     font-size: 3em;
     font-weight: 600;
@@ -44,7 +44,7 @@ header{
     border-bottom: 10px solid #5a99a7;
 }
 body {
-    background-image:url("/myportfolio.com/img/flat-lay11.jpg");
+    background-image:url("/img/flat-lay11.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -58,13 +58,10 @@ body {
     margin-top: 175px;
     
     
-    
    }
    #about-container1
    {
-   
-    
-    background-image: url('/myportfolio.com/img/banner.jpg');
+    background-image: url(/img/banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
@@ -144,8 +141,6 @@ html {
     .line__1,
     .line__2 {
       font-size: 2rem; /* adjust the font size for small screens */
-
-      
     }
   }
   .line__1 {
@@ -202,8 +197,8 @@ html {
     }
   }
   .progress {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     background: none;
     position: relative;
   }
@@ -398,47 +393,4 @@ contact .info-box i.bx {
   text-align: center;
   padding: 15px;
   font-weight: 600;
-}
-@media (max-width: 1200px) {
-  @keyframes animated-text__1 {
-    from {
-      width: 0;
-    }
-    to {
-      width: 25rem;
-    }
-  }
-}
-
-@media (max-width: 992px) {
-  @keyframes animated-text__1 {
-    from {
-      width: 0;
-    }
-    to {
-      width: 25rem;
-    }
-  }
-}
-
-@media (max-width: 768px) {
-  @keyframes animated-text__1 {
-    from {
-      width: 0;
-    }
-    to {
-      width: 25rem;
-    }
-  }
-}
-
-@media (max-width: 576px) {
-  @keyframes animated-text__1 {
-    from {
-      width: 0;
-    }
-    to {
-      width: 17rem;
-    }
-  }
 }
