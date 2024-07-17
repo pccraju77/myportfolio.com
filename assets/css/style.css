@@ -67,6 +67,11 @@ body {
     height: 600px;
     
    }
+@media (max-width: 600px) {
+    #about-container1 {
+      height: 400px; /* Adjust the height as needed for small screens */
+    }
+  }
    #profilepic
    {
     vertical-align: middle;
