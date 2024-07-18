@@ -464,3 +464,11 @@ contact .info-box i.bx {
   background-color: #070707;
   border: none;
 }
+.download-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.section-title {
+  position: relative;
+}
