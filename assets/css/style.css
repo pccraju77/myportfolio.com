@@ -61,7 +61,7 @@ body {
    }
    #about-container1
    {
-    background-image: url('../../img/banner.png');
+    background: linear-gradient(2deg, rgb(33 30 30 / 80%), rgb(56 184 185 / 19%)), url(../../img/banner.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
